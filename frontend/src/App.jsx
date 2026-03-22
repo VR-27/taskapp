@@ -222,7 +222,7 @@ export default function App() {
         <h1 style={styles.title}>
           Task<span style={styles.accent}>App</span>
         </h1>
-        <p style={styles.subtitle}>Dockerized · Flask · PostgreSQL · Nginx</p>
+        <p style={styles.subtitle}>Dockerized · Flask · PostgreSQL · Nginx . v1.0</p>
       </header>
 
       {error && <div style={styles.error}>{error}</div>}
